@@ -1,3 +1,6 @@
+
+
+
 Install MySQL version 8.0.21   (ie. 8.0.x)
 
 database username: root
